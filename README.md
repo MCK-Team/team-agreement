@@ -91,6 +91,7 @@ By Last Name: Miguel FIerro, Chloe Nott, K'lan Stovall
 
 - How often will you merge?
   - at the end of the day
+  - also after any major improvements have been made
 
 - Who merges PRs?
   - any team member can merge after it is approved by at least 1 other person
